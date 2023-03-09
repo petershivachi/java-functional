@@ -1,2 +1,2 @@
 # java-functional
-Declarative programming in java
+Java functional programming
